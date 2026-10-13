@@ -22,11 +22,13 @@ Created a Log Analytics Workspace:
 
 Provisioned a workspace named lab1-ws in the West US region, within the RG2 resource group.
 
-https://raw.githubusercontent.com/PhenyoMB/sc-500-labs/refs/heads/main/Creating%20Log%20Analytics%20Workspace.png
+[https://raw.githubusercontent.com/PhenyoMB/sc-500-labs/refs/heads/main/Creating%20Log%20Analytics%20Workspace.png](https://github.com/PhenyoMB/sc-500-labs/blob/d9e298c8d3b8b878ff1fd9da62fe201c81a05287/Creating%20Log%20Analytics%20Workspace.png)
 
 Deployed Microsoft Sentinel:
 
 Onboarded Microsoft Sentinel to the lab1-ws workspace.
+
+https://github.com/PhenyoMB/sc-500-labs/blob/68dc4b4aa832a463cc7bf652a037796d13dcee26/Deploy%20Sentinel%20To%20A%20Workspace.png
 
 Assigned RBAC Role:
 
