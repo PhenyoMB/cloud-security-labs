@@ -1,4 +1,5 @@
 **Connect Data to Microsoft Sentinel using Data Connectors**
+
 **Lab Overview**
 
 **Objective: Install required Content Hub solutions, configure data connectors (Azure Activity and Microsoft Defender for Cloud), create an analytics rule, and save a workbook to "My workbooks".**

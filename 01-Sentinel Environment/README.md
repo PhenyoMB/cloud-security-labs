@@ -1,4 +1,5 @@
 **Configure your Microsoft Sentinel Environment**
+
 **Lab Overview**
 
 **Objective: Deploy a Microsoft Sentinel workspace meeting specific requirements for region, data retention, and role-based access control (RBAC).**
