@@ -9,7 +9,9 @@ Microsoft Services Used: Microsoft Sentinel, Log Analytics Workspace, Azure RBAC
 Environment and Prerequisites: Azure subscription, Resource Group RG2, and an existing user Operator1.
 
 **Concepts Learned
-**This lab established the foundational architecture for Microsoft Sentinel. Key concepts included:
+**
+
+This lab established the foundational architecture for Microsoft Sentinel. Key concepts included:
 
 Log Analytics Workspace vs. Microsoft Sentinel: The Log Analytics workspace is the underlying data repository and billing boundary. Microsoft Sentinel is the security layer deployed on top of it that provides SIEM and SOAR capabilities.
 
