@@ -22,13 +22,9 @@ Created a Log Analytics Workspace:
 
 Provisioned a workspace named lab1-ws in the West US region, within the RG2 resource group.
 
-![image_alt](https://github.com/PhenyoMB/sc-500-labs/blob/adc73fd466035b0a1adb54b201b229241204b1ae/01-Sentinel-Environment/Deploy%20Sentinel%20To%20A%20Workspace.png)
-
 Deployed Microsoft Sentinel:
 
 Onboarded Microsoft Sentinel to the lab1-ws workspace.
-
-https://github.com/PhenyoMB/sc-500-labs/blob/68dc4b4aa832a463cc7bf652a037796d13dcee26/Deploy%20Sentinel%20To%20A%20Workspace.png
 
 Assigned RBAC Role:
 
@@ -42,11 +38,23 @@ Navigated to the lab1-ws workspace settings under Usage and estimated costs.
 
 Changed the Data Retention period to 180 days.
 
+
 Validation and Results
 Workspace Creation: The Log Analytics workspace lab1-ws was successfully deployed and is active in the West US region.
 
+![image_alt](https://github.com/PhenyoMB/sc-500-labs/blob/55d63ea5d0309dd13cc9b488eb859339de33f4eb/01-Sentinel-Environment/Creating%20Log%20Analytics%20Workspace.png)
+
+
 Sentinel Deployment: Microsoft Sentinel is successfully enabled on the lab1-ws workspace.
+
+![image_alt](https://github.com/PhenyoMB/sc-500-labs/blob/55d63ea5d0309dd13cc9b488eb859339de33f4eb/01-Sentinel-Environment/Deploy%20Sentinel%20To%20A%20Workspace.png)
+
 
 Role Assignment: Operator1 has been successfully assigned the Microsoft Sentinel Contributor role at the RG2 scope.
 
+![image_alt](https://github.com/PhenyoMB/sc-500-labs/blob/55d63ea5d0309dd13cc9b488eb859339de33f4eb/01-Sentinel-Environment/Assign%20a%20MS%20Sentinel%20Role%20To%20A%20User%202.png)
+
+
 Data Retention: The workspace is configured to retain data for 180 days.
+
+![image_alt](https://github.com/PhenyoMB/sc-500-labs/blob/55d63ea5d0309dd13cc9b488eb859339de33f4eb/01-Sentinel-Environment/Configure%20Data%20Retention.png)
