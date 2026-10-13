@@ -22,7 +22,7 @@ Created a Log Analytics Workspace:
 
 Provisioned a workspace named lab1-ws in the West US region, within the RG2 resource group.
 
-!(https://github.com/PhenyoMB/sc-500-labs/blob/adc73fd466035b0a1adb54b201b229241204b1ae/01-Sentinel-Environment/Deploy%20Sentinel%20To%20A%20Workspace.png)
+![image_alt](https://github.com/PhenyoMB/sc-500-labs/blob/adc73fd466035b0a1adb54b201b229241204b1ae/01-Sentinel-Environment/Deploy%20Sentinel%20To%20A%20Workspace.png)
 
 Deployed Microsoft Sentinel:
 
