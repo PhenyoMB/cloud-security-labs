@@ -1,15 +1,13 @@
-Configure your Microsoft Sentinel Environment
-Lab Overview
-Course/Module: Microsoft SC-500 (Microsoft Skill-Up)
+**Configure your Microsoft Sentinel Environment**
+**Lab Overview**
 
-Objective: Deploy a Microsoft Sentinel workspace meeting specific requirements for region, data retention, and role-based access control (RBAC).
+**Objective: Deploy a Microsoft Sentinel workspace meeting specific requirements for region, data retention, and role-based access control (RBAC).**
 
 Microsoft Services Used: Microsoft Sentinel, Log Analytics Workspace, Azure RBAC, Azure Portal.
 
 Environment and Prerequisites: Azure subscription, Resource Group RG2, and an existing user Operator1.
 
-**Concepts Learned
-**
+**Concepts Learned**
 
 This lab established the foundational architecture for Microsoft Sentinel. Key concepts included:
 
@@ -19,8 +17,9 @@ Data Residency and Retention: Configuring the workspace region ensures data resi
 
 Role-Based Access Control (RBAC): Assigning roles at the resource group scope ensures users have the necessary permissions to perform their duties without violating the principle of least privilege.
 
-**Implementation
-**Created a Log Analytics Workspace:
+**Implementation**
+
+Created a Log Analytics Workspace:
 
 Provisioned a workspace named lab1-ws in the West US region, within the RG2 resource group.
 
@@ -41,8 +40,8 @@ Navigated to the lab1-ws workspace settings under Usage and estimated costs.
 Changed the Data Retention period to 180 days.
 
 
-**Validation and Results
-**
+**Validation and Results**
+
 Workspace Creation: The Log Analytics workspace lab1-ws was successfully deployed and is active in the West US region.
 
 ![image_alt](https://github.com/PhenyoMB/sc-500-labs/blob/55d63ea5d0309dd13cc9b488eb859339de33f4eb/01-Sentinel-Environment/Creating%20Log%20Analytics%20Workspace.png)
