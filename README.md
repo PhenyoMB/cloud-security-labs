@@ -1,1 +1,1 @@
-# sc-500-labs
+# cloud-security-labs
